@@ -1,0 +1,28 @@
+{
+  "name": "marcobuijs/date",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Marco Buijs",
+      "email": "marcobuijs@gmail.com"
+    }
+  ],
+  "require": {
+    "nesbot/carbon": "^2.50.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  },
+  "autoload": {
+    "psr-4": {
+      "Date\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  }
+}
