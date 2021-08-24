@@ -1,8 +1,8 @@
 {
   "name": "marcobuijs/date",
-  "description": "description",
-  "minimum-stability": "stable",
-  "license": "proprietary",
+  "description": "Date without Time",
+  "minimum-stability": "alpha",
+  "license": "MIT",
   "authors": [
     {
       "name": "Marco Buijs",
